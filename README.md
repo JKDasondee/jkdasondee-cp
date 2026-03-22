@@ -32,6 +32,16 @@ Personal competitive programming library. Pajenegod-style Python.
 | `strings.py` | Z-function, KMP, Manacher, suffix array + LCP |
 | `matrix.py` | Matrix exponentiation, linear recurrences |
 | `hld.py` | Heavy-Light Decomposition with segment tree |
+| `aho.py` | Aho-Corasick automaton: multi-pattern matching |
+| `twosat.py` | 2-SAT solver via SCC |
+| `centroid.py` | Centroid decomposition (generator-based) |
+| `bootstrap.py` | Recursion limit bypass decorator |
+| `hashing.py` | Polynomial string hashing (mod 2^61-1, double hash) |
+| `mo.py` | Mo's algorithm for offline range queries |
+| `berlekamp.py` | Berlekamp-Massey + kth term of linear recurrence |
+| `euler.py` | Euler path/circuit (undirected + directed) |
+| `geometry.py` | Segment/line intersection, point-to-seg, polygon area, PIP |
+| `misc.py` | LIS, coordinate compression, run-length encoding |
 
 ## Usage
 
