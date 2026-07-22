@@ -16,3 +16,7 @@ dbenv
 .pgdata/
 .turbo/
 *.tsbuildinfo
+nul
+**/.env
+**/.env.*
+!**/.env.example
